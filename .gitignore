@@ -1,0 +1,8 @@
+# Google chrome profile
+/chrome_profile
+
+# export files
+*.zip
+
+# chrome driver
+*.exe
